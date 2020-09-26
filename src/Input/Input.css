@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("../image/pk.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.cont-input {
+  width: fit-content;
+  margin: auto;
+}
+.main-cont {
+  margin-top: 20px;
+}
+.input {
+  width: 30vw;
+  height: 7vh;
+  font-size: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.input:focus {
+  outline: none;
+}
+.btn {
+  height: 47px;
+  margin-top: -4px;
+}
+.row {
+  color: white;
+  margin: auto;
+  width: fit-content;
+  margin-top: 20px;
+}
