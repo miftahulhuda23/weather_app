@@ -1,11 +1,12 @@
 import React from "react";
 import "./index.css";
-import Card from "./Card/Card";
+import Weather from "./Weather/Weather";
+import "weather-icons/css/weather-icons.css";
 
 function App() {
   return (
     <div className="App">
-      <Card />
+      <Weather />
     </div>
   );
 }

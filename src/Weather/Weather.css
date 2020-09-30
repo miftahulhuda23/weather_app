@@ -1,0 +1,13 @@
+.judul {
+  text-align: center;
+  color: #ddd;
+}
+.display-1 {
+  margin-top: 5px;
+}
+.temperatur {
+  margin-top: 10px;
+}
+.deskripsi {
+  font-size: 30px;
+}

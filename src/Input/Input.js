@@ -18,7 +18,7 @@ const Input = (props) => {
             name="city"
           />
           <button className="btn btn-secondary">
-            <i class="fas fa-search"></i>
+            <i className="fas fa-search"></i>
           </button>
         </form>
       </div>
